@@ -55,7 +55,7 @@ You should see `Python 3.11.x` or similar.
 **2. Clone this repository.**
 
 ```
-git clone https://github.com/MatthewKosgei/capacitive-material-sorting.git
+git clone https://github.com/mkosge/capacitive-material-sorting.git
 cd capacitive-material-sorting
 ```
 
