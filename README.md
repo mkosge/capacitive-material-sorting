@@ -8,10 +8,7 @@ The repository contains two Python scripts: `robot_control.py` (arm control and 
 
 ## System overview
 
-<!-- INSERT PHOTO OR DIAGRAM HERE — recommended: a labelled photo of the rig
-     showing the Niryo arm, the AD7746 evaluation board, the sensor plate
-     fixture, the workspace tile, and the three bins.
-     A short demo video linked here satisfies the supervisor's demo requirement. -->
+![System overview](system_overview.jpg)
 
 The high-level flow is:
 
